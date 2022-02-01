@@ -39,7 +39,7 @@ export function Main(props, user) {
   });
 
 
-  const thisURL = 'https://mpiagent.herokuapp.com'
+  const thisURL = 'https://g33kempire.herokuapp.com'
 
   const handleChange = (e) => {
     setAgentId(e.currentTarget.value);

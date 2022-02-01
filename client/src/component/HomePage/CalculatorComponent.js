@@ -674,19 +674,19 @@ export const Calculator = (props) => {
 
     // Cash value
     var cash_value = checkNaN(
-      amount * ratios.cash_value[age][years_to_contribute]
+      amount * ratios.cash_value[age][years_to_contribute] * 0.96875
     );
     var lump_cash_value = checkNaN(
-      lump_amount * lumpRatios.cash_value[age][years_to_contribute]
+      lump_amount * lumpRatios.cash_value[age][years_to_contribute] * 0.96875
     );
     var total_cash_value = cash_value + lump_cash_value;
 
     // Annual income
     var annual_income = checkNaN(
-      amount * ratios.income[age][years_to_contribute]
+      amount * ratios.income[age][years_to_contribute] * 0.96875
     );
     var lump_annual_income = checkNaN(
-      lump_amount * lumpRatios.income[age][years_to_contribute]
+      lump_amount * lumpRatios.income[age][years_to_contribute] * 0.96875
     );
     var total_annual_income = Math.round(annual_income + lump_annual_income);
 
@@ -819,7 +819,7 @@ export const Calculator = (props) => {
     // const time = 10;
     const time = Math.abs(retirement_age - current_age);
     const timeLeft = 90 - retirement_age;
-    const rate = 0.0675;
+    const rate = 0.01;
     const n = 12;
     let total = 0;
 
