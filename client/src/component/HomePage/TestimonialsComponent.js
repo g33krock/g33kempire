@@ -110,7 +110,7 @@ export class Testimonials extends Component {
                 <h2 style={{ color: "black" }}>Cookie Connoisseur</h2>
 
                 <p style={{ color: "black" }}>
-                  “More storage for my cookies.  Thanks Mary!”
+                  “More storage for my cookie.  Thanks Mary!”
                 </p>
               </div>
               <div
