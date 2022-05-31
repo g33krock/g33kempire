@@ -85,20 +85,14 @@ export class Testimonials extends Component {
                 }}
               >
                 <img
-                  src="https://jwvonytjrpiueyuwsjpa.supabase.in/storage/v1/object/public/images/Porter S Square.png"
-                  alt="Porter Shumway"
+                  src="https://qyctrtcwtwasdktftmuy.supabase.co/storage/v1/object/public/images/BigBird.jpg"
+                  alt="Big Bird"
                 />
-                <h1 style={{ color: "black" }}>Porter Shumway</h1>
-                <h3 style={{ color: "black" }}>CEO Salt River Financial</h3>
+                <h1 style={{ color: "black" }}>Big Bird</h1>
+                <h3 style={{ color: "black" }}>Avian Advocate</h3>
 
                 <p style={{ color: "black" }}>
-                  “I have worked closely with financial planners for years. The
-                  MPI® system takes traditional, and often times overly complex
-                  retirement planning, and simplifies it for the masses. Now, it
-                  isn’t just the wealthy that have access to a bright financial
-                  future. This conservative yet extremely efficient approach
-                  allows for investors to feel confident that they have
-                  minimized risk while maximizing long-term growth.”
+                  “She sold me my house, and now I live in it!”
                 </p>
               </div>
               <div
@@ -109,21 +103,14 @@ export class Testimonials extends Component {
                 }}
               >
                 <img
-                  src="https://jwvonytjrpiueyuwsjpa.supabase.in/storage/v1/object/public/images/Ken Kilday Square.png"
-                  alt="Ken Kilday"
+                  src="https://qyctrtcwtwasdktftmuy.supabase.co/storage/v1/object/public/images/CookieMonster.jpg"
+                  alt="Cookie Monster"
                 />
-                <h1 style={{ color: "black" }}>Ken Kilday</h1>
-                <h2 style={{ color: "black" }}>RCC®, CFP®</h2>
+                <h1 style={{ color: "black" }}>Cookie Monster</h1>
+                <h2 style={{ color: "black" }}>Cookie Connoisseur</h2>
 
                 <p style={{ color: "black" }}>
-                  “I was struck how Curtis has brought his visionary innovation
-                  to retirement planning, teaching concepts about compound
-                  interest I believe are life changing. Curtis’ approach
-                  rethinks every assumption we planners have been taught about
-                  money, encourages all to use money wisely, and rewards our
-                  efforts through discipline to “Always Be Compounding!”. A
-                  generous retirement is no longer reserved exclusively for the
-                  wealthy.”
+                  “More storage for my cookies.  Thanks Mary!”
                 </p>
               </div>
               <div
@@ -134,20 +121,14 @@ export class Testimonials extends Component {
                 }}
               >
                 <img
-                  src="https://jwvonytjrpiueyuwsjpa.supabase.in/storage/v1/object/public/images/Porter S Square.png"
-                  alt="Porter Shumway"
+                  src="https://qyctrtcwtwasdktftmuy.supabase.co/storage/v1/object/public/images/CountVonCount.jpg"
+                  alt="Count Von Count"
                 />
-                <h1 style={{ color: "black" }}>Porter Shumway</h1>
-                <h2 style={{ color: "black" }}>CEO Salt River Financial</h2>
+                <h1 style={{ color: "black" }}>Count Von Vount</h1>
+                <h2 style={{ color: "black" }}>Number Vampire</h2>
 
                 <p style={{ color: "black" }}>
-                  “I have worked closely with financial planners for years. The
-                  MPI® system takes traditional, and often times overly complex
-                  retirement planning, and simplifies it for the masses. Now, it
-                  isn’t just the wealthy that have access to a bright financial
-                  future. This conservative yet extremely efficient approach
-                  allows for investors to feel confident that they have
-                  minimized risk while maximizing long-term growth.”
+                  “You can <strong>COUNT</strong> on Mary!”
                 </p>
               </div>
               <div
@@ -158,21 +139,14 @@ export class Testimonials extends Component {
                 }}
               >
                 <img
-                  src="https://jwvonytjrpiueyuwsjpa.supabase.in/storage/v1/object/public/images/Ken Kilday Square.png"
-                  alt="Ken Kilday"
+                  src="https://qyctrtcwtwasdktftmuy.supabase.co/storage/v1/object/public/images/Elmo.jpg"
+                  alt="Elmo"
                 />
-                <h1 style={{ color: "black" }}>Ken Kilday</h1>
-                <h2 style={{ color: "black" }}>RCC®, CFP®</h2>
+                <h1 style={{ color: "black" }}>Elmo</h1>
+                <h2 style={{ color: "black" }}>Small Red Muppet</h2>
 
                 <p style={{ color: "black" }}>
-                  “I was struck how Curtis has brought his visionary innovation
-                  to retirement planning, teaching concepts about compound
-                  interest I believe are life changing. Curtis’ approach
-                  rethinks every assumption we planners have been taught about
-                  money, encourages all to use money wisely, and rewards our
-                  efforts through discipline to “Always Be Compounding!”. A
-                  generous retirement is no longer reserved exclusively for the
-                  wealthy.”
+                  “Where am I?”
                 </p>
               </div>
             </Carousel>

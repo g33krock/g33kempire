@@ -27,7 +27,7 @@ import { supabase } from '../supabaseClient';
 
 export function Main(props, user) {
   // const agentId = Math.floor(Math.random() * 34);
-  const [agentId, setAgentId] = useState(1);
+  const [agentId, setAgentId] = useState(51);
   const agentObject = { agentID: agentId };
   const agents = useState(() => {
     const allAgents = agentService.all();
